@@ -1,0 +1,4 @@
+PortfolioDetails
+GOOG 1
+DELL 3
+XRX 2
