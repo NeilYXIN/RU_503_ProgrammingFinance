@@ -1,4 +1,0 @@
-﻿  源.cpp
-c:\users\yx654\desktop\rutgers\503\hw1\hw1\源.cpp(48): warning C4717: “main”: 如递归所有控件路径，函数将导致运行时堆栈溢出
-  HW1.vcxproj -> C:\Users\yx654\Desktop\Rutgers\503\HW1\Debug\HW1.exe
-  HW1.vcxproj -> C:\Users\yx654\Desktop\Rutgers\503\HW1\Debug\HW1.pdb (Partial PDB)

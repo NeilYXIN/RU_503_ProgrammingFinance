@@ -1,9 +1,0 @@
-﻿  main.cpp
-  priceGetter.cpp
-priceGetter.cpp(121): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  正在生成代码
-  206 of 308 functions (66.9%) were compiled, the rest were copied from previous compilation.
-    141 functions were new in current compilation
-    27 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  Final1.vcxproj -> C:\Users\Xin Yang\source\Final1\Final1\Release\Final1.exe
