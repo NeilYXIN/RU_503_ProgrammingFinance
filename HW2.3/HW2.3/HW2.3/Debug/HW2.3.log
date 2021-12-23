@@ -1,4 +1,0 @@
-﻿  源.cpp
-c:\users\yx654\desktop\rutgers\503\hw2.3\hw2.3\hw2.3\源.cpp(15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  HW2.3.vcxproj -> C:\Users\yx654\Desktop\Rutgers\503\HW2.3\HW2.3\Debug\HW2.3.exe
-  HW2.3.vcxproj -> C:\Users\yx654\Desktop\Rutgers\503\HW2.3\HW2.3\Debug\HW2.3.pdb (Partial PDB)
